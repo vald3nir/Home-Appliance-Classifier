@@ -1,3 +1,6 @@
-# Home-Aappliance-Detection-Algorithm
+# Home Aappliance Detection Algorithm
 
- An algorithm for detecting connected appliances based on electricity consumption
+An algorithm for detecting connected appliances based on electricity consumption
+
+
+# Overview
