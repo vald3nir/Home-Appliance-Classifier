@@ -1,6 +1,5 @@
 import json
 import time
-from datetime import datetime
 
 from serial import Serial
 
@@ -66,14 +65,13 @@ for k in range(NUMBER_OF_READINGS):
         'current_signal_temp': current_signal_temp
     })
 
-    print(HOME_APPLIANCE, k + 1, 'PA:', apparent_power,
-          'PR', real_power, " FP: ", power_factor)
+    print(HOME_APPLIANCE, k + 1, 'PA:', apparent_power, 'PR', real_power, " FP: ", power_factor)
 
 # ----------------------------------------------------------------------------------------------------------------------
 
-now = datetime.now()
-file_name = HOME_APPLIANCE + '-' + str(now.timestamp()) + '.json'
-with open('time-series/' + file_name, 'w') as f:
+file_name = 'data/timeseries.json'
+
+with open(file_name, 'a') as f:
     json.dump(registers, f)
 
 print("Time Series Saved")
