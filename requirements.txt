@@ -2,5 +2,4 @@ matplotlib
 numpy
 pandas
 scikit-learn
-jupyterlab
-notebook
+jupyter

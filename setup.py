@@ -17,5 +17,5 @@ def load_libraries(libraries):
 if __name__ == '__main__':
     load_libraries(libraries=[
         "matplotlib", "numpy", "pandas",
-        "scikit-learn", "jupyterlab", "notebook",
+        "scikit-learn", "jupyter"
     ])
