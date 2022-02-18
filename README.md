@@ -13,16 +13,14 @@ Brazilian Workshop on Smart Cities (WBCI) Jul 19, 2019](https://sol.sbc.org.br/i
 
 ## Home appliance features
 
-![Arno_Faciclic_Top_LN32_500W](https://user-images.githubusercontent.com/23506996/154683208-ad3f1858-d881-4172-85b2-57217b051874.png)
-![Bosch_GSB_RE_650W](https://user-images.githubusercontent.com/23506996/154683214-4357e512-d4d8-449c-ae42-32d58b12848d.png)
-![Britania_Super_Citrus_300_200w](https://user-images.githubusercontent.com/23506996/154683215-23669455-5269-47d8-8e95-7495a6b2f906.png)
-![Consul_Facilite_Cmp25abhna](https://user-images.githubusercontent.com/23506996/154683216-5dd0f5d0-bada-47d1-8e5d-caaf0bf3f282.png)
+![Consul_Facilite_Cmp25abhna](https://user-images.githubusercontent.com/23506996/154700853-4913f5f0-aeb6-4c1a-a68b-a384814f0b2e.png)
+![Mallory_Fashion_Liss_35W](https://user-images.githubusercontent.com/23506996/154700858-79e1de31-9a99-46e0-9743-63548c11535f.png)
+![Smart_TV_Samsung_J4300_32](https://user-images.githubusercontent.com/23506996/154700859-867dd95e-88b4-4654-98f5-a6525c8e03c2.png)
+![Taiff_RS3_990W](https://user-images.githubusercontent.com/23506996/154700863-49587743-2e5e-4d00-a64d-1c272fdb7b06.png)
+![Arno_Faciclic_Top_LN32_500W](https://user-images.githubusercontent.com/23506996/154700865-db8d2108-ebd6-4177-a629-1304001b1097.png)
+![Bosch_GSB_RE_650W](https://user-images.githubusercontent.com/23506996/154700870-53f21cfb-d5fc-4570-8164-2941113a2b87.png)
+![Britania_Super_Citrus_300_200w](https://user-images.githubusercontent.com/23506996/154700873-b9ff1bab-313b-4d77-aa20-8c6eabbe01e8.png)
 
-## Data acquisition
-
-### Sensor Node
-
-![sensor-node](https://user-images.githubusercontent.com/23506996/154678026-78fc2a6c-b8c1-4a3e-aa02-fe6c66340325.png)
 
 ### Specification of collected data
 
