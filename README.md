@@ -2,6 +2,13 @@
 
 Machine learning algorithms used to identify certain home appliances based on electricity consumption
 
+## Home appliance features
+
+![Arno_Faciclic_Top_LN32_500W](https://user-images.githubusercontent.com/23506996/154683208-ad3f1858-d881-4172-85b2-57217b051874.png)
+![Bosch_GSB_RE_650W](https://user-images.githubusercontent.com/23506996/154683214-4357e512-d4d8-449c-ae42-32d58b12848d.png)
+![Britania_Super_Citrus_300_200w](https://user-images.githubusercontent.com/23506996/154683215-23669455-5269-47d8-8e95-7495a6b2f906.png)
+![Consul_Facilite_Cmp25abhna](https://user-images.githubusercontent.com/23506996/154683216-5dd0f5d0-bada-47d1-8e5d-caaf0bf3f282.png)
+
 ## Data acquisition
 
 ### Sensor Node
