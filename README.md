@@ -354,4 +354,4 @@ ax.grid()
 plt.show()
 ```
 
-![png](classifiers_files/classifiers_21_0.png)
+![image](https://user-images.githubusercontent.com/23506996/154677104-f9845d3e-d46a-43d4-89c7-9d7e400263e2.png)
