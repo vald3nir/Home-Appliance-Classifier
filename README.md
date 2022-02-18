@@ -1,6 +1,6 @@
-# Home Aappliance Detection Algorithm
+# Home Appliance Classifiers
 
-An algorithm for detecting connected appliances based on electricity consumption
+Machine learning algorithms used to identify certain home appliances based on electricity consumption
 
 
 # Overview
