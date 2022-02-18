@@ -2,9 +2,27 @@
 
 Machine learning algorithms used to identify certain home appliances based on electricity consumption
 
+## Data acquisition
 
-# Overview
+### Sensor Node
 
+![sensor-node](https://user-images.githubusercontent.com/23506996/154678026-78fc2a6c-b8c1-4a3e-aa02-fe6c66340325.png)
+
+### Specification of collected data
+
+| Attribute | Type |
+| --- | --- |
+| Current Waveform | Integer Array |
+| Real Power | Float |
+| Apparent Power | Float |
+| Power Factor | Float 
+
+### Dataset
+
+![datasets](https://user-images.githubusercontent.com/23506996/154680476-5dd93464-dae5-4a0a-8d89-fded4e539e19.png)
+
+
+## Classifier tests
 
 ```python
 import matplotlib.pyplot as plt
