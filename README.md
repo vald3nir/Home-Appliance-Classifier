@@ -2,6 +2,15 @@
 
 Machine learning algorithms used to identify certain home appliances based on electricity consumption
 
+## Publications
+
+[Intelligent Monitoring of Energy Consumption in a Residential Environment using IoT
+XII BRAZILIAN SYMPOSIUM ON UBIQUENT AND PERVASIVE COMPUTING Jun 30, 2020](https://sol.sbc.org.br/index.php/sbcup/article/view/11209)
+
+[Minimum Viable Product for Electrical Monitoring in Smart Homes
+Brazilian Workshop on Smart Cities (WBCI) Jul 19, 2019](https://sol.sbc.org.br/index.php/wbci/article/view/6745)
+
+
 ## Home appliance features
 
 ![Arno_Faciclic_Top_LN32_500W](https://user-images.githubusercontent.com/23506996/154683208-ad3f1858-d881-4172-85b2-57217b051874.png)
