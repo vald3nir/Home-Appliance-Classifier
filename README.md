@@ -21,6 +21,9 @@ Machine learning algorithms used to identify certain home appliances based on el
 
 ![datasets](https://user-images.githubusercontent.com/23506996/154680476-5dd93464-dae5-4a0a-8d89-fded4e539e19.png)
 
+Fetures:
+ - Real electrical power
+ - Harmonic components from 60Hz to 1320Hz
 
 ## Classifier tests
 
