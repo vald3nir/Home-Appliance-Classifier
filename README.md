@@ -10,7 +10,6 @@ XII BRAZILIAN SYMPOSIUM ON UBIQUENT AND PERVASIVE COMPUTING Jun 30, 2020](https:
 - [Minimum Viable Product for Electrical Monitoring in Smart Homes
 Brazilian Workshop on Smart Cities (WBCI) Jul 19, 2019](https://sol.sbc.org.br/index.php/wbci/article/view/6745)
 
-
 ## Home appliance features
 
 ![Consul_Facilite_Cmp25abhna](https://user-images.githubusercontent.com/23506996/154700853-4913f5f0-aeb6-4c1a-a68b-a384814f0b2e.png)
@@ -21,7 +20,6 @@ Brazilian Workshop on Smart Cities (WBCI) Jul 19, 2019](https://sol.sbc.org.br/i
 ![Bosch_GSB_RE_650W](https://user-images.githubusercontent.com/23506996/154700870-53f21cfb-d5fc-4570-8164-2941113a2b87.png)
 ![Britania_Super_Citrus_300_200w](https://user-images.githubusercontent.com/23506996/154700873-b9ff1bab-313b-4d77-aa20-8c6eabbe01e8.png)
 
-
 ### Specification of collected data
 
 | Attribute | Type |
@@ -29,15 +27,16 @@ Brazilian Workshop on Smart Cities (WBCI) Jul 19, 2019](https://sol.sbc.org.br/i
 | Current Waveform | Integer Array |
 | Real Power | Float |
 | Apparent Power | Float |
-| Power Factor | Float 
+| Power Factor | Float
 
 ### Dataset
 
 ![datasets](https://user-images.githubusercontent.com/23506996/154680476-5dd93464-dae5-4a0a-8d89-fded4e539e19.png)
 
 Fetures:
- - Real electrical power
- - Harmonic components from 60Hz to 1320Hz
+
+- Real electrical power
+- Harmonic components from 60Hz to 1320Hz
 
 ## Classifier tests
 
