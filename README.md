@@ -2,6 +2,10 @@
 
 Machine learning algorithms used to identify certain home appliances based on electricity consumption
 
+## Overview
+
+![image](https://user-images.githubusercontent.com/23506996/154864304-c04bd7d8-7e3a-4abe-9b38-fed5fd30b470.png)
+
 ## Publications
 
 - [Intelligent Monitoring of Energy Consumption in a Residential Environment using IoT
